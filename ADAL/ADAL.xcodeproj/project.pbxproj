@@ -80,6 +80,22 @@
 		290750AC1E380F32000F0C29 /* ADALTelemetryCollectionRules.h in Headers */ = {isa = PBXBuildFile; fileRef = 290750AA1E380F32000F0C29 /* ADALTelemetryCollectionRules.h */; };
 		2949ABC01E395FC400F56C57 /* ADALTelemetryCollectionRules.m in Sources */ = {isa = PBXBuildFile; fileRef = 290750AB1E380F32000F0C29 /* ADALTelemetryCollectionRules.m */; };
 		2949ABC11E39605F00F56C57 /* ADALTelemetryCollectionRules.m in Sources */ = {isa = PBXBuildFile; fileRef = 290750AB1E380F32000F0C29 /* ADALTelemetryCollectionRules.m */; };
+		4E02AFC72BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFC82BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFC92BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFCA2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFCB2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFCC2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFCD2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFCE2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFCF2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFD02BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFD12BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFD22BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFD32BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFD42BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFD52BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
+		4E02AFD62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */; };
 		600401A51D3421480020EAAB /* ADALTelemetry.m in Sources */ = {isa = PBXBuildFile; fileRef = 600401A31D3421480020EAAB /* ADALTelemetry.m */; };
 		600401B61D37658C0020EAAB /* ADALAggregatedDispatcher.m in Headers */ = {isa = PBXBuildFile; fileRef = 600401B51D37658C0020EAAB /* ADALAggregatedDispatcher.m */; };
 		600401BE1D377E9F0020EAAB /* ADALDefaultDispatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 600401BC1D377E9F0020EAAB /* ADALDefaultDispatcher.m */; };
@@ -942,6 +958,7 @@
 		23F32F1B1FFD793000B2905E /* ADALTokenCacheToMSIDMacTokenCacheTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADALTokenCacheToMSIDMacTokenCacheTests.m; sourceTree = "<group>"; };
 		290750AA1E380F32000F0C29 /* ADALTelemetryCollectionRules.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADALTelemetryCollectionRules.h; sourceTree = "<group>"; };
 		290750AB1E380F32000F0C29 /* ADALTelemetryCollectionRules.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADALTelemetryCollectionRules.m; sourceTree = "<group>"; };
+		4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		6004019F1D340B760020EAAB /* ADALTelemetry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADALTelemetry.h; sourceTree = "<group>"; };
 		600401A31D3421480020EAAB /* ADALTelemetry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADALTelemetry.m; sourceTree = "<group>"; };
 		600401B51D37658C0020EAAB /* ADALAggregatedDispatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADALAggregatedDispatcher.m; sourceTree = "<group>"; };
@@ -1539,6 +1556,7 @@
 		8B0965A117F25770002BDFB8 = {
 			isa = PBXGroup;
 			children = (
+				4E02AFC62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy */,
 				D626FFC01FBD1B1300EE4487 /* IdentityCore.xcodeproj */,
 				8B0965AF17F25770002BDFB8 /* src */,
 				8B0965C317F25770002BDFB8 /* tests */,
@@ -3042,6 +3060,7 @@
 			files = (
 				04AB6D541D9D619B007E9A83 /* LaunchScreen.storyboard in Resources */,
 				04AB6D511D9D619B007E9A83 /* Assets.xcassets in Resources */,
+				4E02AFCD2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				04AB6D4F1D9D619B007E9A83 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3050,6 +3069,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFD12BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3057,6 +3077,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFC82BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3064,6 +3085,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFC72BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				96B9F04720DDFC0C006C806C /* adal__additional_settings.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3072,6 +3094,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFCA2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				B2E2CFEE20ED99EB00AC0D3E /* adal__additional_settings.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3080,6 +3103,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFCB2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3087,6 +3111,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFD52BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				B2000C2120EC1EA40092790A /* adal__uitest__mac.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3095,6 +3120,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFD62BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				B2375EE420EEEE4400E7686A /* adal__uitest__mac.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3103,6 +3129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFC92BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3110,6 +3137,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFCC2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3117,6 +3145,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFD22BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3124,6 +3153,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFD42BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3134,6 +3164,7 @@
 				B2E9684820E96B7A00906F3D /* Assets.xcassets in Resources */,
 				B2000C0B20EB09DB0092790A /* adal__automationapp__mac.xcconfig in Resources */,
 				B2000C2020EC1EA40092790A /* adal__uitest__mac.xcconfig in Resources */,
+				4E02AFD32BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				B2E9684B20E96B7A00906F3D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3144,6 +3175,7 @@
 			files = (
 				D64C1F5A1DB9B05A00850036 /* LaunchScreen.storyboard in Resources */,
 				D64C1F571DB9B05A00850036 /* Assets.xcassets in Resources */,
+				4E02AFCE2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				D64C1F551DB9B05900850036 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3152,6 +3184,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E02AFCF2BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				D6D9A5641FBFBA6000EFA430 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3163,6 +3196,7 @@
 				D6D9A5561FBFB61900EFA430 /* CacheWindow.xib in Resources */,
 				D6D9A5581FBFB62100EFA430 /* AcquireTokenWindow.xib in Resources */,
 				D6D9A5571FBFB61D00EFA430 /* MainMenu.xib in Resources */,
+				4E02AFD02BD0041B0042F9D9 /* PrivacyInfo.xcprivacy in Resources */,
 				D6D9A5591FBFB62500EFA430 /* Credits.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
